@@ -1,5 +1,5 @@
 import './App.css';
-import { Code2, Mail, ArrowDown, ExternalLink } from 'lucide-react';
+import { Mail, ArrowDown, ExternalLink } from 'lucide-react';
 import Chatbot from "./Chatbot";
 
 function App() {
